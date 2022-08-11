@@ -17,6 +17,12 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 EXTRA_UDFPS_ANIMATIONS := false
 IS_PHONE := true
 
+# Official
+ELIXIR_MAINTAINER := Wisky
+ELIXIR_BUILD_TYPE := OFFICIAL
+BUILD_USERNAME := Rahul
+BUILD_HOSTNAME := Elixir
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := aosp_beryllium
 PRODUCT_DEVICE := beryllium
