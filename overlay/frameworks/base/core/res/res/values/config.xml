@@ -707,6 +707,9 @@
     <!-- Should we filter any display modes which are unampped? -->
     <bool name="config_filterDisplayModes">true</bool>
      
+    <!-- Whether device has a notch -->
+    <bool name="config_haveNotch">true</bool>
+     
     <!-- List supported color modes. -->
     <integer-array name="config_availableColorModes">
         <item>0</item> <!-- COLOR_MODE_NATURAL -->
