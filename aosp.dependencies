@@ -4,7 +4,7 @@
         "target_path": "device/xiaomi/sdm845-common"
     },
     {
-     	"repository": "device_xiaomi_beryllium",
+     	"repository": "device_xiaomi_beryllium-RG",
         "target_path": "device/xiaomi/beryllium"
     },
     {
