@@ -21,9 +21,9 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.cherish.maintainer=PSKMaxi
 
 # Unofficial
-CHERISH_MAINTAINER := PSK
+CHERISH_MAINTAINER := PSKMaxi
 CHERISH_BUILD_TYPE := UNOFFICIAL
-BUILD_USERNAME := PSK
+BUILD_USERNAME := PSKMaxi
 BUILD_HOSTNAME := Cherish
 
 # Device identifier. This must come after all inclusions.
