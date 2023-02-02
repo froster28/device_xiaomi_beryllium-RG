@@ -1,7 +1,6 @@
 kernel/xiaomi
 vendor/xiaomi
 device/xiaomi
-packages/apps/memecam
 firmware/xiaomi/beryllium
 prebuilts/clang/host/linux-x86/clang-proton
 hardware/qcom-caf/sdm845/display
