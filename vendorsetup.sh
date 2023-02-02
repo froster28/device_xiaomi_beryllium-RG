@@ -8,8 +8,8 @@ git clone https://github.com/RahulGorai0206/vendor_xiaomi.git -b thirteen vendor
 
 # Clone Device Trees
 rm -rf device/xiaomi
-git clone https://github.com/PSKMaxi/device_xiaomi_beryllium-common.git -b thirteen device/xiaomi/sdm845-common
-git clone https://github.com/PSKMaxi/device_xiaomi_beryllium-RG.git -b thirteen device/xiaomi/beryllium
+git clone https://github.com/froster28/device_xiaomi_beryllium-common.git -b thirteen device/xiaomi/sdm845-common
+git clone https://github.com/froster28/device_xiaomi_beryllium-RG.git -b thirteen device/xiaomi/beryllium
 
 # Clone Clang
 rm -rf prebuilts/clang/host/linux-x86/clang-proton
