@@ -16,10 +16,6 @@
         "target_path": "kernel/xiaomi/sdm845"
     }
     {
-        "repository": "packages_apps_memecam",
-        "target_path": "packages/apps/memecam"
-    }
-    {
         "repository": "firmware_xiaomi_beryllium",
         "target_path": "firmware/xiaomi/beryllium"
     }
