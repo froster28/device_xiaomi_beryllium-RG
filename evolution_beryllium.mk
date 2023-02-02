@@ -17,6 +17,7 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 EXTRA_UDFPS_ANIMATIONS := false
 IS_PHONE := true
 
+# Maintainer Flag
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.evolution.maintainer=PSKMaxi
 
