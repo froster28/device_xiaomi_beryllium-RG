@@ -2,6 +2,9 @@
 rm -rf kernel/xiaomi
 git clone https://github.com/Krtonia/kawaii_kernel_sdm845.git -b 13 kernel/xiaomi/sdm845 --depth=1
 
+# Clone ANXCam
+git clone https://gitlab.com/RahulGorai0206/packages_apps_memecam.git packages/apps/memecam --depth=1
+
 # Clone Vendor
 rm -rf vendor/xiaomi
 git clone https://github.com/RahulGorai0206/vendor_xiaomi.git -b thirteen vendor/xiaomi --depth=1
