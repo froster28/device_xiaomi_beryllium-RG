@@ -100,3 +100,8 @@ PRODUCT_COPY_FILES += \
 # PocketMode
 PRODUCT_PACKAGES += \
     XiaomiPocketMode
+
+# Soong namespaces
+PRODUCT_SOONG_NAMESPACES +=
+$(LOCAL_PATH)
+hardware/qcom-caf/$(sdm845)
