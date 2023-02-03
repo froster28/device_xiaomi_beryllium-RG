@@ -7,7 +7,7 @@ git clone https://gitlab.com/RahulGorai0206/packages_apps_memecam.git packages/a
 
 # Clone Vendor
 rm -rf vendor/xiaomi
-git clone https://github.com/Krtonia/beryllium-vendor.git -b 13 vendor/xiaomi --depth=1
+git clone https://github.com/RahulGorai0206/vendor_xiaomi.git -b thirteen vendor/xiaomi --depth=1
 
 # Clone Device Trees
 rm -rf device/xiaomi
