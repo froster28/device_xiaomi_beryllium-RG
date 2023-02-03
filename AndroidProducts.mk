@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bananadroid_beryllium.mk
+    $(LOCAL_DIR)/octavi_beryllium.mk
 
 COMMON_LUNCH_CHOICES := \
-    bananadroid_beryllium-user \
-    bananadroid_beryllium-userdebug \
-    bananadroid_beryllium-eng
+    octavi_beryllium-user \
+    octavi_beryllium-userdebug \
+    octavi_beryllium-eng
